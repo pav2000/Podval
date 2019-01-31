@@ -4,6 +4,7 @@
 1.1 Установить библиотеку  Time library - https://github.com/PaulStoffregen/Time  
 У нее не удачное имя (винды регистронезависимы и имя совпадает с системным -- среда глючит)
 переименовать в stmTime  директорию, файлы и ссылки в них !!!
+Проект выложен на Гитхабе https://github.com/pav2000/Podval.git
 */
 
 #pragma GCC optimize ("-Os")
